@@ -14,8 +14,7 @@ function dom(element) {
 }
 
 // Get Element Life
-// let lifeAppleNode = document.querySelectorAll(".img-apple");
-let lifeCanvas = document.getElementById('life_icon');
+let lifeCanvas = dom('#life_icon');
 let lifeHtml = dom('#life-child');
 let lifeEathMax = dom('.love-number');
 let lengthHealth = [];
