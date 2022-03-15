@@ -1,0 +1,20 @@
+{
+  "name": "snake-app",
+  "version": "1.0.0",
+  "description": "Package For Snake Game App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adityarizqi7/aoda-snake.git"
+  },
+  "keywords": [],
+  "author": "Aditya Rizqi Ardhana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adityarizqi7/aoda-snake/issues"
+  },
+  "homepage": "https://github.com/Adityarizqi7/aoda-snake#readme"
+}
